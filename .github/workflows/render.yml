@@ -78,8 +78,8 @@ jobs:
           npx remotion render src/index.ts LondonBeerFlood out/part_${{ matrix.chunk }}.mp4 \
             --frames=${{ matrix.frames }} \
             --codec=h264 \
-            --crf=20 \
-            --scale=0.6667 \
+            --crf=18 \
+            --scale=0.5 \
             --gl=swangle \
             --concurrency=4 \
             --muted \
