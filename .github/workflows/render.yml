@@ -1,0 +1,71 @@
+name: Cloud Render Remotion 2.5D Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      qualityMode:
+        description: 'Quality Mode (full or ultra-light)'
+        required: false
+        default: 'full'
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  render-video:
+    name: Render London Beer Flood MP4 on GitHub Cloud
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install System Chromium & FFmpeg Dependencies for Headless WebGL
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 \
+            libdbus-1-3 \
+            libatk1.0-0 \
+            libgbm-dev \
+            libasound2t64 \
+            libxrandr2 \
+            libxkbcommon-dev \
+            libxfixes3 \
+            libxcomposite1 \
+            libxdamage1 \
+            libatk-bridge2.0-0 \
+            libpango-1.0-0 \
+            libcairo2 \
+            libcups2 \
+            ffmpeg
+
+      - name: Install NPM Dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Ensure Headless Browser Binary
+        run: npx remotion browser ensure
+
+      - name: Render 60s 1080x1920 60fps MP4 in Cloud (ANGLE / SwiftShader WebGL)
+        run: |
+          npx remotion render src/index.ts LondonBeerFlood out/london-beer-flood.mp4 \
+            --codec=h264 \
+            --crf=18 \
+            --gl=angle \
+            --concurrency=2 \
+            --props="{\"qualityMode\":\"${{ github.event.inputs.qualityMode || 'full' }}\"}"
+
+      - name: Upload Rendered MP4 Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: london-beer-flood-mp4
+          path: out/london-beer-flood.mp4
+          retention-days: 14

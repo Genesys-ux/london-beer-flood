@@ -1,0 +1,1244 @@
+[
+  {
+    "word": "Tahun",
+    "startSec": 0.306,
+    "endSec": 0.529,
+    "startFrame": 18,
+    "endFrame": 32,
+    "highlight": false,
+    "segmentId": 1
+  },
+  {
+    "word": "seribu",
+    "startSec": 0.529,
+    "endSec": 0.763,
+    "startFrame": 32,
+    "endFrame": 46,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "delapan",
+    "startSec": 0.763,
+    "endSec": 1.031,
+    "startFrame": 46,
+    "endFrame": 62,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "ratus",
+    "startSec": 1.031,
+    "endSec": 1.243,
+    "startFrame": 62,
+    "endFrame": 75,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "empat",
+    "startSec": 1.243,
+    "endSec": 1.433,
+    "startFrame": 75,
+    "endFrame": 86,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "belas",
+    "startSec": 1.433,
+    "endSec": 1.824,
+    "startFrame": 86,
+    "endFrame": 109,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "kota",
+    "startSec": 2.08,
+    "endSec": 2.27,
+    "startFrame": 125,
+    "endFrame": 136,
+    "highlight": false,
+    "segmentId": 1
+  },
+  {
+    "word": "London",
+    "startSec": 2.27,
+    "endSec": 2.527,
+    "startFrame": 136,
+    "endFrame": 152,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "ditenggelamkan",
+    "startSec": 2.527,
+    "endSec": 3.04,
+    "startFrame": 152,
+    "endFrame": 182,
+    "highlight": false,
+    "segmentId": 1
+  },
+  {
+    "word": "oleh",
+    "startSec": 3.04,
+    "endSec": 3.196,
+    "startFrame": 182,
+    "endFrame": 192,
+    "highlight": false,
+    "segmentId": 1
+  },
+  {
+    "word": "tsunami",
+    "startSec": 3.196,
+    "endSec": 3.498,
+    "startFrame": 192,
+    "endFrame": 210,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "bir",
+    "startSec": 3.498,
+    "endSec": 3.688,
+    "startFrame": 210,
+    "endFrame": 221,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "setinggi",
+    "startSec": 3.688,
+    "endSec": 4.045,
+    "startFrame": 221,
+    "endFrame": 243,
+    "highlight": false,
+    "segmentId": 1
+  },
+  {
+    "word": "empat",
+    "startSec": 4.045,
+    "endSec": 4.279,
+    "startFrame": 243,
+    "endFrame": 257,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "setengah",
+    "startSec": 4.279,
+    "endSec": 4.536,
+    "startFrame": 257,
+    "endFrame": 272,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "meter",
+    "startSec": 4.536,
+    "endSec": 4.971,
+    "startFrame": 272,
+    "endFrame": 298,
+    "highlight": true,
+    "segmentId": 1
+  },
+  {
+    "word": "Semua",
+    "startSec": 6.497,
+    "endSec": 6.787,
+    "startFrame": 390,
+    "endFrame": 407,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "berawal",
+    "startSec": 6.788,
+    "endSec": 7.111,
+    "startFrame": 407,
+    "endFrame": 427,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "di",
+    "startSec": 7.111,
+    "endSec": 7.191,
+    "startFrame": 427,
+    "endFrame": 431,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "pabrik",
+    "startSec": 7.189,
+    "endSec": 7.468,
+    "startFrame": 431,
+    "endFrame": 448,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "bir",
+    "startSec": 7.468,
+    "endSec": 7.625,
+    "startFrame": 448,
+    "endFrame": 457,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "Horse",
+    "startSec": 7.625,
+    "endSec": 7.915,
+    "startFrame": 457,
+    "endFrame": 475,
+    "highlight": true,
+    "segmentId": 2
+  },
+  {
+    "word": "Shoe",
+    "startSec": 7.915,
+    "endSec": 8.082,
+    "startFrame": 475,
+    "endFrame": 485,
+    "highlight": true,
+    "segmentId": 2
+  },
+  {
+    "word": "Brewery",
+    "startSec": 8.082,
+    "endSec": 8.562,
+    "startFrame": 485,
+    "endFrame": 514,
+    "highlight": true,
+    "segmentId": 2
+  },
+  {
+    "word": "di",
+    "startSec": 8.562,
+    "endSec": 8.718,
+    "startFrame": 514,
+    "endFrame": 523,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "jalan",
+    "startSec": 8.718,
+    "endSec": 9.008,
+    "startFrame": 523,
+    "endFrame": 541,
+    "highlight": false,
+    "segmentId": 2
+  },
+  {
+    "word": "Tottenham",
+    "startSec": 9.008,
+    "endSec": 9.433,
+    "startFrame": 541,
+    "endFrame": 566,
+    "highlight": true,
+    "segmentId": 2
+  },
+  {
+    "word": "Court",
+    "startSec": 9.433,
+    "endSec": 9.678,
+    "startFrame": 566,
+    "endFrame": 581,
+    "highlight": true,
+    "segmentId": 2
+  },
+  {
+    "word": "Road",
+    "startSec": 9.678,
+    "endSec": 10.035,
+    "startFrame": 581,
+    "endFrame": 602,
+    "highlight": true,
+    "segmentId": 2
+  },
+  {
+    "word": "Para",
+    "startSec": 11.497,
+    "endSec": 11.687,
+    "startFrame": 690,
+    "endFrame": 701,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "pemilik",
+    "startSec": 11.687,
+    "endSec": 11.955,
+    "startFrame": 701,
+    "endFrame": 717,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "kaya",
+    "startSec": 11.955,
+    "endSec": 12.167,
+    "startFrame": 717,
+    "endFrame": 730,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "membangun",
+    "startSec": 12.167,
+    "endSec": 12.513,
+    "startFrame": 730,
+    "endFrame": 751,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "tong",
+    "startSec": 12.513,
+    "endSec": 12.669,
+    "startFrame": 751,
+    "endFrame": 760,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "kayu",
+    "startSec": 12.669,
+    "endSec": 12.937,
+    "startFrame": 760,
+    "endFrame": 776,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "ek",
+    "startSec": 12.937,
+    "endSec": 13.071,
+    "startFrame": 776,
+    "endFrame": 784,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "raksasa",
+    "startSec": 13.071,
+    "endSec": 13.495,
+    "startFrame": 784,
+    "endFrame": 810,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "setinggi",
+    "startSec": 13.495,
+    "endSec": 13.875,
+    "startFrame": 810,
+    "endFrame": 832,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "gedung",
+    "startSec": 13.875,
+    "endSec": 14.131,
+    "startFrame": 832,
+    "endFrame": 848,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "tiga",
+    "startSec": 14.131,
+    "endSec": 14.332,
+    "startFrame": 848,
+    "endFrame": 860,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "lantai",
+    "startSec": 14.332,
+    "endSec": 14.7,
+    "startFrame": 860,
+    "endFrame": 882,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "untuk",
+    "startSec": 14.7,
+    "endSec": 14.924,
+    "startFrame": 882,
+    "endFrame": 895,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "pamer",
+    "startSec": 14.924,
+    "endSec": 15.158,
+    "startFrame": 895,
+    "endFrame": 909,
+    "highlight": false,
+    "segmentId": 3
+  },
+  {
+    "word": "kekayaan",
+    "startSec": 15.158,
+    "endSec": 15.783,
+    "startFrame": 909,
+    "endFrame": 947,
+    "highlight": true,
+    "segmentId": 3
+  },
+  {
+    "word": "Di",
+    "startSec": 17.697,
+    "endSec": 17.842,
+    "startFrame": 1062,
+    "endFrame": 1071,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "dalamnya",
+    "startSec": 17.842,
+    "endSec": 18.233,
+    "startFrame": 1071,
+    "endFrame": 1094,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "mendidih",
+    "startSec": 18.233,
+    "endSec": 18.546,
+    "startFrame": 1094,
+    "endFrame": 1113,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "lebih",
+    "startSec": 18.546,
+    "endSec": 18.735,
+    "startFrame": 1113,
+    "endFrame": 1124,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "dari",
+    "startSec": 18.735,
+    "endSec": 18.869,
+    "startFrame": 1124,
+    "endFrame": 1132,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "satu",
+    "startSec": 18.869,
+    "endSec": 19.115,
+    "startFrame": 1132,
+    "endFrame": 1147,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "koma",
+    "startSec": 19.115,
+    "endSec": 19.293,
+    "startFrame": 1147,
+    "endFrame": 1158,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "empat",
+    "startSec": 19.293,
+    "endSec": 19.494,
+    "startFrame": 1158,
+    "endFrame": 1170,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "juta",
+    "startSec": 19.494,
+    "endSec": 19.695,
+    "startFrame": 1170,
+    "endFrame": 1182,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "liter",
+    "startSec": 19.695,
+    "endSec": 19.929,
+    "startFrame": 1182,
+    "endFrame": 1196,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "bir",
+    "startSec": 19.929,
+    "endSec": 20.097,
+    "startFrame": 1196,
+    "endFrame": 1206,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "hitam",
+    "startSec": 20.097,
+    "endSec": 20.376,
+    "startFrame": 1206,
+    "endFrame": 1223,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "porter",
+    "startSec": 20.376,
+    "endSec": 20.61,
+    "startFrame": 1223,
+    "endFrame": 1237,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "panas",
+    "startSec": 20.61,
+    "endSec": 20.934,
+    "startFrame": 1237,
+    "endFrame": 1256,
+    "highlight": false,
+    "segmentId": 4
+  },
+  {
+    "word": "bertekanan",
+    "startSec": 20.934,
+    "endSec": 21.38,
+    "startFrame": 1256,
+    "endFrame": 1283,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "tinggi",
+    "startSec": 21.38,
+    "endSec": 21.838,
+    "startFrame": 1283,
+    "endFrame": 1310,
+    "highlight": true,
+    "segmentId": 4
+  },
+  {
+    "word": "Tanggal",
+    "startSec": 24.306,
+    "endSec": 24.551,
+    "startFrame": 1458,
+    "endFrame": 1473,
+    "highlight": false,
+    "segmentId": 5
+  },
+  {
+    "word": "tujuh",
+    "startSec": 24.551,
+    "endSec": 24.763,
+    "startFrame": 1473,
+    "endFrame": 1486,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "belas",
+    "startSec": 24.763,
+    "endSec": 24.942,
+    "startFrame": 1486,
+    "endFrame": 1497,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "Oktober",
+    "startSec": 24.942,
+    "endSec": 25.243,
+    "startFrame": 1497,
+    "endFrame": 1515,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "sore",
+    "startSec": 25.243,
+    "endSec": 25.701,
+    "startFrame": 1515,
+    "endFrame": 1542,
+    "highlight": false,
+    "segmentId": 5
+  },
+  {
+    "word": "mandor",
+    "startSec": 25.98,
+    "endSec": 26.27,
+    "startFrame": 1559,
+    "endFrame": 1576,
+    "highlight": false,
+    "segmentId": 5
+  },
+  {
+    "word": "gudang",
+    "startSec": 26.27,
+    "endSec": 26.516,
+    "startFrame": 1576,
+    "endFrame": 1591,
+    "highlight": false,
+    "segmentId": 5
+  },
+  {
+    "word": "George",
+    "startSec": 26.516,
+    "endSec": 26.761,
+    "startFrame": 1591,
+    "endFrame": 1606,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "Crick",
+    "startSec": 26.761,
+    "endSec": 26.973,
+    "startFrame": 1606,
+    "endFrame": 1618,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "memeriksa",
+    "startSec": 26.973,
+    "endSec": 27.308,
+    "startFrame": 1618,
+    "endFrame": 1638,
+    "highlight": false,
+    "segmentId": 5
+  },
+  {
+    "word": "sabuk",
+    "startSec": 27.308,
+    "endSec": 27.587,
+    "startFrame": 1638,
+    "endFrame": 1655,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "besi",
+    "startSec": 27.587,
+    "endSec": 27.833,
+    "startFrame": 1655,
+    "endFrame": 1670,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "seberat",
+    "startSec": 27.833,
+    "endSec": 28.134,
+    "startFrame": 1670,
+    "endFrame": 1688,
+    "highlight": false,
+    "segmentId": 5
+  },
+  {
+    "word": "tujuh",
+    "startSec": 28.134,
+    "endSec": 28.368,
+    "startFrame": 1688,
+    "endFrame": 1702,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "ratus",
+    "startSec": 28.368,
+    "endSec": 28.591,
+    "startFrame": 1702,
+    "endFrame": 1715,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "kilogram",
+    "startSec": 28.591,
+    "endSec": 29.161,
+    "startFrame": 1715,
+    "endFrame": 1750,
+    "highlight": true,
+    "segmentId": 5
+  },
+  {
+    "word": "Tiba-tiba",
+    "startSec": 31.097,
+    "endSec": 31.566,
+    "startFrame": 1866,
+    "endFrame": 1894,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "sabuk",
+    "startSec": 31.566,
+    "endSec": 31.867,
+    "startFrame": 1894,
+    "endFrame": 1912,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "besi",
+    "startSec": 31.867,
+    "endSec": 32.057,
+    "startFrame": 1912,
+    "endFrame": 1923,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "raksasa",
+    "startSec": 32.057,
+    "endSec": 32.392,
+    "startFrame": 1923,
+    "endFrame": 1944,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "itu",
+    "startSec": 32.392,
+    "endSec": 32.615,
+    "startFrame": 1944,
+    "endFrame": 1957,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "putus",
+    "startSec": 32.615,
+    "endSec": 32.916,
+    "startFrame": 1957,
+    "endFrame": 1975,
+    "highlight": true,
+    "segmentId": 6
+  },
+  {
+    "word": "seperti",
+    "startSec": 32.916,
+    "endSec": 33.173,
+    "startFrame": 1975,
+    "endFrame": 1990,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "tembakan",
+    "startSec": 33.173,
+    "endSec": 33.497,
+    "startFrame": 1990,
+    "endFrame": 2010,
+    "highlight": true,
+    "segmentId": 6
+  },
+  {
+    "word": "meriam",
+    "startSec": 33.497,
+    "endSec": 33.954,
+    "startFrame": 2010,
+    "endFrame": 2037,
+    "highlight": true,
+    "segmentId": 6
+  },
+  {
+    "word": "Namun",
+    "startSec": 34.7,
+    "endSec": 35.012,
+    "startFrame": 2082,
+    "endFrame": 2101,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "bosnya",
+    "startSec": 35.012,
+    "endSec": 35.358,
+    "startFrame": 2101,
+    "endFrame": 2121,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "malah",
+    "startSec": 35.358,
+    "endSec": 35.548,
+    "startFrame": 2121,
+    "endFrame": 2133,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "santai",
+    "startSec": 35.548,
+    "endSec": 35.849,
+    "startFrame": 2133,
+    "endFrame": 2151,
+    "highlight": true,
+    "segmentId": 6
+  },
+  {
+    "word": "menulis",
+    "startSec": 35.849,
+    "endSec": 36.15,
+    "startFrame": 2151,
+    "endFrame": 2169,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "surat",
+    "startSec": 36.15,
+    "endSec": 36.586,
+    "startFrame": 2169,
+    "endFrame": 2195,
+    "highlight": false,
+    "segmentId": 6
+  },
+  {
+    "word": "Satu",
+    "startSec": 37.697,
+    "endSec": 38.01,
+    "startFrame": 2262,
+    "endFrame": 2281,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "jam",
+    "startSec": 38.01,
+    "endSec": 38.188,
+    "startFrame": 2281,
+    "endFrame": 2291,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "kemudian",
+    "startSec": 38.188,
+    "endSec": 38.758,
+    "startFrame": 2291,
+    "endFrame": 2325,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "tekanan",
+    "startSec": 39.014,
+    "endSec": 39.316,
+    "startFrame": 2341,
+    "endFrame": 2359,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "gas",
+    "startSec": 39.316,
+    "endSec": 39.472,
+    "startFrame": 2359,
+    "endFrame": 2368,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "fermentasi",
+    "startSec": 39.472,
+    "endSec": 39.907,
+    "startFrame": 2368,
+    "endFrame": 2394,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "meledakkan",
+    "startSec": 39.907,
+    "endSec": 40.32,
+    "startFrame": 2394,
+    "endFrame": 2419,
+    "highlight": true,
+    "segmentId": 7
+  },
+  {
+    "word": "tong",
+    "startSec": 40.32,
+    "endSec": 40.443,
+    "startFrame": 2419,
+    "endFrame": 2427,
+    "highlight": true,
+    "segmentId": 7
+  },
+  {
+    "word": "utama",
+    "startSec": 40.443,
+    "endSec": 40.822,
+    "startFrame": 2427,
+    "endFrame": 2449,
+    "highlight": true,
+    "segmentId": 7
+  },
+  {
+    "word": "dan",
+    "startSec": 40.822,
+    "endSec": 40.979,
+    "startFrame": 2449,
+    "endFrame": 2459,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "menghancurkan",
+    "startSec": 40.979,
+    "endSec": 41.481,
+    "startFrame": 2459,
+    "endFrame": 2489,
+    "highlight": true,
+    "segmentId": 7
+  },
+  {
+    "word": "tong-tong",
+    "startSec": 41.481,
+    "endSec": 41.804,
+    "startFrame": 2489,
+    "endFrame": 2508,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "di",
+    "startSec": 41.804,
+    "endSec": 41.884,
+    "startFrame": 2508,
+    "endFrame": 2513,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "sebelahnya",
+    "startSec": 41.86,
+    "endSec": 42.474,
+    "startFrame": 2512,
+    "endFrame": 2548,
+    "highlight": false,
+    "segmentId": 7
+  },
+  {
+    "word": "Dinding",
+    "startSec": 44.299,
+    "endSec": 44.667,
+    "startFrame": 2658,
+    "endFrame": 2680,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "batu",
+    "startSec": 44.667,
+    "endSec": 44.868,
+    "startFrame": 2680,
+    "endFrame": 2692,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "bata",
+    "startSec": 44.868,
+    "endSec": 45.069,
+    "startFrame": 2692,
+    "endFrame": 2704,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "pabrik",
+    "startSec": 45.069,
+    "endSec": 45.337,
+    "startFrame": 2704,
+    "endFrame": 2720,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "jebol",
+    "startSec": 45.337,
+    "endSec": 45.828,
+    "startFrame": 2720,
+    "endFrame": 2750,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "Gelombang",
+    "startSec": 46.569,
+    "endSec": 46.959,
+    "startFrame": 2794,
+    "endFrame": 2818,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "bir",
+    "startSec": 46.959,
+    "endSec": 47.071,
+    "startFrame": 2818,
+    "endFrame": 2824,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "raksasa",
+    "startSec": 47.071,
+    "endSec": 47.484,
+    "startFrame": 2824,
+    "endFrame": 2849,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "menerjang",
+    "startSec": 47.484,
+    "endSec": 47.863,
+    "startFrame": 2849,
+    "endFrame": 2872,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "pemukiman",
+    "startSec": 47.863,
+    "endSec": 48.332,
+    "startFrame": 2872,
+    "endFrame": 2900,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "padat",
+    "startSec": 48.332,
+    "endSec": 48.555,
+    "startFrame": 2900,
+    "endFrame": 2913,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "Saint",
+    "startSec": 48.555,
+    "endSec": 48.745,
+    "startFrame": 2913,
+    "endFrame": 2925,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "Giles",
+    "startSec": 48.745,
+    "endSec": 49.136,
+    "startFrame": 2925,
+    "endFrame": 2948,
+    "highlight": true,
+    "segmentId": 8
+  },
+  {
+    "word": "dalam",
+    "startSec": 49.136,
+    "endSec": 49.37,
+    "startFrame": 2948,
+    "endFrame": 2962,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "hitungan",
+    "startSec": 49.37,
+    "endSec": 49.694,
+    "startFrame": 2962,
+    "endFrame": 2982,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "detik",
+    "startSec": 49.694,
+    "endSec": 50.073,
+    "startFrame": 2982,
+    "endFrame": 3004,
+    "highlight": false,
+    "segmentId": 8
+  },
+  {
+    "word": "Anehnya",
+    "startSec": 51.106,
+    "endSec": 51.675,
+    "startFrame": 3066,
+    "endFrame": 3100,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "pengadilan",
+    "startSec": 51.932,
+    "endSec": 52.289,
+    "startFrame": 3116,
+    "endFrame": 3137,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "memutuskan",
+    "startSec": 52.289,
+    "endSec": 52.713,
+    "startFrame": 3137,
+    "endFrame": 3163,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "bencana",
+    "startSec": 52.713,
+    "endSec": 52.981,
+    "startFrame": 3163,
+    "endFrame": 3179,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "ini",
+    "startSec": 52.981,
+    "endSec": 53.182,
+    "startFrame": 3179,
+    "endFrame": 3191,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "sebagai",
+    "startSec": 53.182,
+    "endSec": 53.472,
+    "startFrame": 3191,
+    "endFrame": 3208,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "takdir",
+    "startSec": 53.472,
+    "endSec": 53.773,
+    "startFrame": 3208,
+    "endFrame": 3226,
+    "highlight": true,
+    "segmentId": 9
+  },
+  {
+    "word": "Tuhan",
+    "startSec": 53.773,
+    "endSec": 54.231,
+    "startFrame": 3226,
+    "endFrame": 3254,
+    "highlight": true,
+    "segmentId": 9
+  },
+  {
+    "word": "dan",
+    "startSec": 54.487,
+    "endSec": 54.666,
+    "startFrame": 3269,
+    "endFrame": 3280,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "sejak",
+    "startSec": 54.666,
+    "endSec": 54.923,
+    "startFrame": 3280,
+    "endFrame": 3295,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "itu",
+    "startSec": 54.923,
+    "endSec": 55.135,
+    "startFrame": 3295,
+    "endFrame": 3308,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "tong",
+    "startSec": 55.135,
+    "endSec": 55.28,
+    "startFrame": 3308,
+    "endFrame": 3317,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "kayu",
+    "startSec": 55.28,
+    "endSec": 55.436,
+    "startFrame": 3317,
+    "endFrame": 3326,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "raksasa",
+    "startSec": 55.436,
+    "endSec": 55.816,
+    "startFrame": 3326,
+    "endFrame": 3349,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "resmi",
+    "startSec": 55.816,
+    "endSec": 56.05,
+    "startFrame": 3349,
+    "endFrame": 3363,
+    "highlight": false,
+    "segmentId": 9
+  },
+  {
+    "word": "dilarang",
+    "startSec": 56.05,
+    "endSec": 56.318,
+    "startFrame": 3363,
+    "endFrame": 3379,
+    "highlight": true,
+    "segmentId": 9
+  },
+  {
+    "word": "selamanya",
+    "startSec": 56.318,
+    "endSec": 56.898,
+    "startFrame": 3379,
+    "endFrame": 3414,
+    "highlight": true,
+    "segmentId": 9
+  }
+]

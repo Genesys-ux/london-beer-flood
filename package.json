@@ -1,0 +1,31 @@
+{
+  "name": "london-beer-flood-25d-short",
+  "version": "1.0.0",
+  "description": "Hybrid 2.5D Narrative Short-Form Animation: The 1814 London Beer Flood (Remotion + React Three Fiber)",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts LondonBeerFlood out/london-beer-flood.mp4 --codec h264 --crf 18 --browser-executable=\"C:/Program Files/Google/Chrome/Application/chrome.exe\" --gl=angle",
+    "render:still": "remotion still src/index.ts LondonBeerFlood out/still.png --browser-executable=\"C:/Program Files/Google/Chrome/Application/chrome.exe\" --gl=angle",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.114.0",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/postprocessing": "^2.16.3",
+    "@remotion/cli": "4.0.242",
+    "@remotion/renderer": "4.0.242",
+    "@remotion/three": "4.0.242",
+    "postprocessing": "^6.36.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.242",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.169.0",
+    "typescript": "^5.6.3"
+  }
+}
